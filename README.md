@@ -80,11 +80,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajdeep-samanta59&theme=onedark" alt="Trophies" />
-</p>
 
 ---
 
