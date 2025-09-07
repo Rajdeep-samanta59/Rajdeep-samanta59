@@ -1,7 +1,7 @@
 <!-- Rajdeep Samanta - GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rajdeep Samanta</h1>
-<h3 align="center">A passionate Software Developer | MERN Stack Enthusiast | DSA Lover 🚀</h3>
+<h3 align="center">A passionate Software Developer | MERN Stack Enthusiast | DSA Lover 🚀..</h3>
 
 <p align="center">
   🔭 Exploring the intersection of scalable web apps & efficient algorithms.<br>
