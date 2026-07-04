@@ -1,77 +1,91 @@
-```md
-<!-- =========================
-   Rajdeep Samanta - Modern GitHub README
-========================= -->
+
+
+<!-- Rajdeep Samanta - GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rajdeep Samanta</h1>
-
-<h3 align="center">
-  Software Developer • Full Stack Builder • Problem Solver
-</h3>
+<h3 align="center">A passionate Software Developer | MERN Stack Enthusiast | DSA Lover 🚀..</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+clean+and+scalable+software;Passionate+about+problem+solving+and+development;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+  🔭 Exploring the intersection of scalable web apps & efficient algorithms.<br>
+  💡 I love building full-stack projects, exploring system design, and tackling real-world problems through code.<br>
+  🧠 Strong believer in continuous learning — always curious about new tech, dev tools, and open-source contributions.<br>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajdeep-samanta59&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rajdeep-samanta59?style=for-the-badge&color=2563eb" alt="followers" />
-</p>
+- 🌱 I’m currently learning **Full Stack Web Development (MERN)**
+- 🔍 Actively practicing **Data Structures & Algorithms** on LeetCode, GFG, and CodeStudio
+- 💼 Looking for **SDE Internships & Collaborations**
+- 💬 Ask me about **JavaScript, Node.js, MongoDB, Express, React**
+- 📫 Reach me at: **samantarajdeep59@gmail.com**
+- ⚡ Fun fact: I often break things just to fix them better. 😄
 
 ---
 
-## ✨ About Me
+### 🔗 Connect with me:
 
-- 🎓 Final-year Computer Science student with a strong interest in software development and problem solving  
-- 💻 I enjoy building **clean, practical, and user-focused applications**
-- ⚙️ Interested in **backend logic, scalable systems, and writing maintainable code**
-- 🧠 Regularly practice **DSA** to improve logic, coding speed, and problem-solving ability
-- 🚀 Always exploring better ways to build, optimize, and learn
-- 🤝 Open to **internships, collaboration, and software engineering opportunities**
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,tailwind" />
+<p align="left">
+<a href="https://linkedin.com/in/contact-rajdeep" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 📈 Current Focus
+### 🛠️ Languages and Tools:
 
-- Building full-stack applications with clean architecture
-- Strengthening DSA and core CS fundamentals
-- Writing better backend logic and APIs
-- Improving code quality, problem solving, and development workflow
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/contact-rajdeep" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samantarajdeep59@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center">
-  📫 <b>Email:</b> samantarajdeep59@gmail.com
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajdeep-samanta59&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-samanta59&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeep-samanta59&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-samanta59&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+
+---
+
+### 🔥 Streak Stats:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajdeep-samanta59&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -79,24 +93,8 @@
 
 ---
 
-## 🏆 Highlights
+### 👁️ Visitor Badge:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajdeep-samanta59&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://komarev.com/ghpvc/?username=rajdeep-samanta59&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
-
-## 💭 Developer Mindset
-
-<p align="center">
-  I like building things that are simple, useful, and well-structured.<br/>
-  For me, growth comes from consistency — learning, building, improving, and repeating.
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer"/>
-</p>
-```
