@@ -8,9 +8,7 @@
 Backend-Focused Full Stack Developer • DevOps Enthusiast • AI Explorer 🚀
 </h3>
 
-<p align="center">
-Building scalable backend systems, modern web applications, and continuously learning technologies that power production-ready software.
-</p>
+
 
 ---
 
