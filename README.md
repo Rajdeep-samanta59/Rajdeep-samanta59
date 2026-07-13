@@ -1,100 +1,194 @@
-
-
-<!-- Rajdeep Samanta - GitHub Profile README -->
+<!-- ===========================
+        Rajdeep Samanta
+=========================== -->
 
 <h1 align="center">Hi 👋, I'm Rajdeep Samanta</h1>
-<h3 align="center">A passionate Software Developer | MERN Stack Enthusiast | DSA Lover 🚀..</h3>
+
+<h3 align="center">
+Backend-Focused Full Stack Developer • DevOps Enthusiast • AI Explorer 🚀
+</h3>
 
 <p align="center">
-  🔭 Exploring the intersection of scalable web apps & efficient algorithms.<br>
-  💡 I love building full-stack projects, exploring system design, and tackling real-world problems through code.<br>
-  🧠 Strong believer in continuous learning — always curious about new tech, dev tools, and open-source contributions.<br>
+Building scalable backend systems, modern web applications, and continuously learning technologies that power production-ready software.
 </p>
-
-- 🌱 I’m currently learning **Full Stack Web Development (MERN)**
-- 🔍 Actively practicing **Data Structures & Algorithms** on LeetCode, GFG, and CodeStudio
-- 💼 Looking for **SDE Internships & Collaborations**
-- 💬 Ask me about **JavaScript, Node.js, MongoDB, Express, React**
-- 📫 Reach me at: **samantarajdeep59@gmail.com**
-- ⚡ Fun fact: I often break things just to fix them better. 😄
 
 ---
 
-### 🔗 Connect with me:
+# 🚀 About Me
+
+- 🔭 I’m currently building backend-focused Full Stack applications, integrating AI capabilities, and mastering DevOps to create scalable, production-ready systems.
+- 👯 I’m looking to collaborate on products that challenge me to think deeper, build smarter, and engineer solutions that scale.
+- 🤝 I’m looking for help with System Design, Cloud, DevOps, and scalable software engineering.
+- 🌱 I’m currently learning System Design, Cloud Computing, DevOps, and AI Engineering.
+- 💬 Ask me about Backend Development, Full Stack Engineering, DevOps.
+- ⚡ Fun fact: I measure progress not by lines of code, but by problems solved and lessons learned.
+- 📫 Reach me at **samantarajdeep59@gmail.com**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/contact-rajdeep" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+
+<a href="mailto:samantarajdeep59@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+<a href="https://github.com/rajdeep-samanta59">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/contact-rajdeep">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+# 💻 Tech Stack
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  </a>
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,js,ts,html,css" />
+
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux" />
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,fastapi,flask" />
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase" />
+
+</p>
+
+---
+
+## AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas,matplotlib" />
+
+</p>
+
+---
+
+## DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws,githubactions,gitlab,git,vercel,netlify,heroku,npm,powershell,windows" />
+
+</p>
+
+---
+
+## Additional Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/REST_API-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CI/CD-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter"/>
+
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon"/>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
+
+</p>
+
+---
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeep-samanta59&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-samanta59&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<img src="https://streak-stats.demolab.com?user=rajdeep-samanta59&theme=tokyonight&hide_border=true"/>
 
----
-
-
----
-
-### 🔥 Streak Stats:
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajdeep-samanta59&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 👁️ Visitor Badge:
+
+
+# ⚡ Contribution
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajdeep-samanta59&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rajdeep-samanta59&theme=github-compact&bg_color=000000&color=00FF41&line=00E676&point=FFFFFF&area=true&hide_border=true&radius=20&custom_title=Rajdeep%20Samanta"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </p>
+
+<p align="center">
+  <i>"Every green square is a step toward engineering excellence."</i>
+</p>
+```
+
+
+
+
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rajdeep-samanta59&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Building scalable software, solving meaningful problems, and never stopping the learning journey.
+
+</h3>
